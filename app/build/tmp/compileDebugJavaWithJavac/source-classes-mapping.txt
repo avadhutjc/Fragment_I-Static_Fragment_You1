@@ -1,0 +1,8 @@
+com/masai/a10231july_static_fragment_you1/BuildConfig.java
+ com.masai.a10231july_static_fragment_you1.BuildConfig
+com/masai/a10231july_static_fragment_you1/MainActivity.java
+ com.masai.a10231july_static_fragment_you1.MainActivity
+com/masai/a10231july_static_fragment_you1/FragmentB.java
+ com.masai.a10231july_static_fragment_you1.FragmentB
+com/masai/a10231july_static_fragment_you1/FragmentA.java
+ com.masai.a10231july_static_fragment_you1.FragmentA
